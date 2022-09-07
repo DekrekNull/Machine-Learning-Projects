@@ -1,0 +1,139 @@
+Part 1: Fortune Cookie Classifier
+
+(A)
+	it-1	| mistakes: 70
+	it-2	| mistakes: 35
+	it-3	| mistakes: 18
+	it-4	| mistakes: 16
+	it-5	| mistakes: 8
+	it-6	| mistakes: 2
+	it-7	| mistakes: 2
+	it-8	| mistakes: 2
+	it-9	| mistakes: 2
+	it-10	| mistakes: 2
+	it-11	| mistakes: 2
+	it-12	| mistakes: 2
+	it-13	| mistakes: 2
+	it-14	| mistakes: 2
+	it-15	| mistakes: 2
+	it-16	| mistakes: 2
+	it-17	| mistakes: 2
+	it-18	| mistakes: 2
+	it-19	| mistakes: 2
+	it-20	| mistakes: 2
+(B)
+	it-1	| training-accuracy: %78.12 
+		| testing-accuracy:  %48.48
+	it-2	| training-accuracy: %89.06 
+		| testing-accuracy:  %55.56
+	it-3	| training-accuracy: %94.38 
+		| testing-accuracy:  %73.74
+	it-4	| training-accuracy: %95.0 
+		| testing-accuracy:  %73.74
+	it-5	| training-accuracy: %97.5 
+		| testing-accuracy:  %81.82
+	it-6	| training-accuracy: %99.38 
+		| testing-accuracy:  %81.82
+	it-7	| training-accuracy: %99.38 
+		| testing-accuracy:  %81.82
+	it-8	| training-accuracy: %99.38 
+		| testing-accuracy:  %81.82
+	it-9	| training-accuracy: %99.38 
+		| testing-accuracy:  %81.82
+	it-10	| training-accuracy: %99.38 
+		| testing-accuracy:  %81.82
+	it-11	| training-accuracy: %99.38 
+		| testing-accuracy:  %81.82
+	it-12	| training-accuracy: %99.38 
+		| testing-accuracy:  %81.82
+	it-13	| training-accuracy: %99.38 
+		| testing-accuracy:  %81.82
+	it-14	| training-accuracy: %99.38 
+		| testing-accuracy:  %81.82
+	it-15	| training-accuracy: %99.38 
+		| testing-accuracy:  %81.82
+	it-16	| training-accuracy: %99.38 
+		| testing-accuracy:  %81.82
+	it-17	| training-accuracy: %99.38 
+		| testing-accuracy:  %81.82
+	it-18	| training-accuracy: %99.38 
+		| testing-accuracy:  %81.82
+	it-19	| training-accuracy: %99.38 
+		| testing-accuracy:  %81.82
+	it-20	| training-accuracy: %99.38 
+		| testing-accuracy:  %81.82
+(C)
+	training-accuracy-standard-perceptron: %99.38
+	training-accuracy-averaged-perceptron: %99.38
+	testing-accuracy-standard-perceptron:  %81.82
+	testing-accuracy-averaged-perceptron:  %81.82
+
+Part 2: OCR
+
+(A)
+	it-1	| mistakes: 14804
+	it-2	| mistakes: 14777
+	it-3	| mistakes: 14781
+	it-4	| mistakes: 14765
+	it-5	| mistakes: 14867
+	it-6	| mistakes: 14851
+	it-7	| mistakes: 14818
+	it-8	| mistakes: 14851
+	it-9	| mistakes: 14830
+	it-10	| mistakes: 14798
+	it-11	| mistakes: 14862
+	it-12	| mistakes: 14767
+	it-13	| mistakes: 14782
+	it-14	| mistakes: 14780
+	it-15	| mistakes: 14750
+	it-16	| mistakes: 14835
+	it-17	| mistakes: 14847
+	it-18	| mistakes: 14770
+	it-19	| mistakes: 14870
+	it-20	| mistakes: 14790
+(B)
+	it-1	| training-accuracy: %68.86 
+		| testing-accuracy:  %65.45
+	it-2	| training-accuracy: %68.91 
+		| testing-accuracy:  %61.32
+	it-3	| training-accuracy: %68.91 
+		| testing-accuracy:  %64.31
+	it-4	| training-accuracy: %68.94 
+		| testing-accuracy:  %62.38
+	it-5	| training-accuracy: %68.72 
+		| testing-accuracy:  %54.86
+	it-6	| training-accuracy: %68.76 
+		| testing-accuracy:  %65.24
+	it-7	| training-accuracy: %68.83 
+		| testing-accuracy:  %58.28
+	it-8	| training-accuracy: %68.76 
+		| testing-accuracy:  %57.68
+	it-9	| training-accuracy: %68.8 
+		| testing-accuracy:  %55.75
+	it-10	| training-accuracy: %68.87 
+		| testing-accuracy:  %56.99
+	it-11	| training-accuracy: %68.73 
+		| testing-accuracy:  %60.23
+	it-12	| training-accuracy: %68.93 
+		| testing-accuracy:  %62.51
+	it-13	| training-accuracy: %68.9 
+		| testing-accuracy:  %54.34
+	it-14	| training-accuracy: %68.91 
+		| testing-accuracy:  %58.78
+	it-15	| training-accuracy: %68.97 
+		| testing-accuracy:  %62.9
+	it-16	| training-accuracy: %68.79 
+		| testing-accuracy:  %63.68
+	it-17	| training-accuracy: %68.77 
+		| testing-accuracy:  %57.33
+	it-18	| training-accuracy: %68.93 
+		| testing-accuracy:  %64.89
+	it-19	| training-accuracy: %68.72 
+		| testing-accuracy:  %60.54
+	it-20	| training-accuracy: %68.89 
+		| testing-accuracy:  %58.57
+(C)
+	training-accuracy-standard-perceptron: %68.89
+	training-accuracy-averaged-perceptron: %68.89
+	testing-accuracy-standard-perceptron:  %58.57
+	testing-accuracy-averaged-perceptron:  %58.57
